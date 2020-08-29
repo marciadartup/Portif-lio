@@ -1,12 +1,14 @@
 
 MARCIA ALVES
-Cientista líder de dados no Centro de Operações Espaciais
 
-Como um cientista de dados experiente e piloto da Força Aérea, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando o Aprendizado de Máquina a problemas reais da Força Aérea Brasileira, desenvolvi um pensamento crítico e habilidade de resolução de problemas.
+Curso Python do Zero com Carlos Melo - Sigmoidal.
+
+
+
 
 Minhas credenciais incluem um mestrado em Ciência e Tecnologia Espacial pelo Instituto de Tecnologia da Aeronáutica (ITA), uma instituição de ensino superior e pesquisa avançada classificada como uma das melhores e mais prestigiadas escolas de engenharia do Brasil, e um MBA em Gerenciamento de Projetos e Processos da Universidade da Força Aérea (UNIFA).
 
-Experiência em: Python, Aprendizado de Máquina, Operações Espaciais e Otimização Matemática.
+Experiência em: 
 
 Links:
 
