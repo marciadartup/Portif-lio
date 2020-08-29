@@ -1,4 +1,5 @@
-Carlos melo
+
+MARCIA ALVES
 Cientista líder de dados no Centro de Operações Espaciais
 
 Como um cientista de dados experiente e piloto da Força Aérea, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando o Aprendizado de Máquina a problemas reais da Força Aérea Brasileira, desenvolvi um pensamento crítico e habilidade de resolução de problemas.
