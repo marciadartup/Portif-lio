@@ -6,16 +6,16 @@ Curso Python do Zero com Carlos Melo - Sigmoidal.
 
 
 
-Minhas credenciais incluem 
-Experiência em: 
+Minhas credenciais incluem muitos anos de trabalho e um desejo de recomeçar 
+Experiência em: Gestão, automação, escrituração fiscal, testes e levantamento de Requisitos.
 
 Links:
 
 Blog
-LinkedIn
-Médio
+LinkedIn:https://www.linkedin.com/in/marcia-alves-503492126/
+Medium:https://medium.com/@marcia.darts/edit
 Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+
 
 Como usar o Histograma para Data Science: 
 Como Implementar Regressão Linear com Python: 
