@@ -1,7 +1,6 @@
 
 MARCIA ALVES
 
-Curso Python do Zero com Carlos Melo - Sigmoidal.
 
 
 
@@ -15,6 +14,7 @@ Blog
 LinkedIn:https://www.linkedin.com/in/marcia-alves-503492126/
 Medium:https://medium.com/@marcia.darts/edit
 Projetos:
+
 
 
 Como usar o Histograma para Data Science: 
